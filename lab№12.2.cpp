@@ -5,7 +5,7 @@ int main() {
 	int N,F;
 	string C;
 	string d[] = { "север", "запад", "юг", "восток" };
-	cout << "C=";
+	cout << "введите напрваление(полным словом)\n";
 	cin >> C;
 	cout << "N=";
 	cin >> N;
